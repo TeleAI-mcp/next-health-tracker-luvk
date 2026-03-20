@@ -1,2 +1,3 @@
-# next-health-tracker-luvk
-Automated issue comment bot repository
+# Next Health Tracker Luvk
+
+Automated issue comment bot repository.
